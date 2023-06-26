@@ -1,1 +1,2 @@
 # odin-recipes
+This recipe website is my first project with The Odin Project! I utilized my knowledge in HTML to insert headings, images, paragraphs, and lists for each recipe page. I also practiced using the command line to create all documents and push to Github. 
